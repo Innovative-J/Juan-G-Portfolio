@@ -18,19 +18,11 @@ A short table of contents to help find the specific areas that contain all the i
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
+Copy or use the gith hub url either from here from git hub in order to view the website. [Website Url](https://innovative-j.github.io/Juan-G-Portfolio/)
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+No instalation required just a simple browser will work.
 
 ## credits 
  dallas photo url[Author](https://images.unsplash.com/photo-1640704599116-34fa80fe31cb?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
