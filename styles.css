@@ -80,29 +80,26 @@ section {
     transform: scale(1.2);
 }
 
+#about {
+    height: 40%;
+}
+
 .content {
-    /* background-color: white; */
     padding: 20px;
     color: white;
+    height: 30%;
+    width: auto;
     margin: 10px;
-    padding: 2px;
+    padding: 20px;
     text-align: center;
     backdrop-filter: blur(5px);
     background: rgba(0, 0, 0, 0.8) blur(5px);
-    display: flex;
 }
-
-/* .content:before{
-    box-shadow: inset 0 0 0 3000px rgba(150, 150, 150, 0.192) ;
-    filter:blur(10px);
-    border-radius: 15px;
-    background: inherit;
-    content: ' ';
-} */
 
 h2 {
     color: white;
-    padding: 10px;
+    display: flex;
+    justify-content: center;
 }
 
 /* created basic footer styles that have links to each contact information */
